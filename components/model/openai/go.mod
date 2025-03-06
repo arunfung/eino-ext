@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/model/openai
+module github.com/arunfung/eino-ext/components/model/openai
 
 go 1.18
 
